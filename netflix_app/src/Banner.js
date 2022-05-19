@@ -43,8 +43,6 @@ function Banner() {
             <h1 className="banner_description">{truncate(movie?.overview, 150)}</h1>
             </div>
 
-         
-          
 
           {/* div > 2 buttons */}
 
